@@ -1,5 +1,5 @@
 # Visualize Social Distancing
-See final project [here](https://kyle1james.github.io/weeky_projects/visual_social_distance/code/)
+See final project [here](https://kyle1james.github.io/project_of_the_week/visual_social_distance/code/index.html)
 
 *This lesson is meant to be paired with instruction, however, you will be able to follow along and create the final product*
 
