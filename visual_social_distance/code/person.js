@@ -1,7 +1,7 @@
 class Person {
 
     // init
-    constructor(x, y, a, h) { //pulser has 4 arguments
+    constructor(x, y, a, h) { 
     this.pos = createVector(x,y);
     this.age = a;
     this.health = h;
